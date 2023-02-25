@@ -20,7 +20,7 @@ function transform(degree) {
     //Caminho F -> C
     if (fahrenheit) {
         novoDegree = Number(degree.toUpperCase().replace('F', '')) //Transformando em um number e tirando a letra F para depois colocar a letra C
-        formula = fah => (fah - 32) * 5/9 //Formula que calcula o valor em fahrenheit
+        formula = fah => (fah - 32) * 5/9 //Formula que calcula o valor em Fahrenheit
         novoSimb = '°C' //Concatenando o simbolo
     }
     //Caminho C -> F
