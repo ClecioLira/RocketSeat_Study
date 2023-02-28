@@ -95,4 +95,4 @@ function mostrarLivrosAutor(author) {
 totalCategorias()
 totalLivros()
 contarAutores()
-mostrarLivrosAutor("George S. Clason")
+mostrarLivrosAutor("Augusto Cury")
