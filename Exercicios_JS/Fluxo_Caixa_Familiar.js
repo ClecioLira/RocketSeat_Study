@@ -11,7 +11,7 @@ Agora, crie uma função que irá calcular o total de receitas e despesas que ir
 
 //Aqui fica os valores das receitas e das despesas
 let gastos = {
-    receitas: [1200, 300],
+    receitas: [1500, 300],
     despesas: [500.45, 50, 580, 100],
 }
 
