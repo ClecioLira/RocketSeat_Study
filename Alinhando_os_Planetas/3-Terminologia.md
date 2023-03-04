@@ -1,0 +1,12 @@
+## Terminologia
+- Flex Container
+    - Flex item
+- Nesting
+- Axis
+    - Main
+        - start, end
+    - Cross
+        - start, end
+- Flex Sizing
+    - Flexível
+    - Altera width/height dos itens para preenchimento dos espaços do flex container
