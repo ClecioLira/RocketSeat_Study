@@ -1,2 +1,27 @@
 @charset "UTF-8";
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    margin: 1rem;
+    display: flex;
+    gap: 1rem;
+    text-align: center;
+}
+
+.coluna1 {
+    background-color: gray;
+    height: 90vh;
+    flex-basis: 25%;
+    padding: 1rem;
+}
+
+.coluna2 {
+    background-color: gray;
+    height: 90vh;
+    flex-grow: 1;
+    padding: 1rem;
+}
