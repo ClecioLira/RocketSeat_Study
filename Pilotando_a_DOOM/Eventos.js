@@ -8,5 +8,9 @@
 
 // Adicionando eventos via JS -> addEventListener()
 const h1 = document.querySelector("h1")
-//                 parâmetro
-h1.addEventListener("click", funçao())
+//              tipo do evento
+h1.addEventListener("click", funçao)
+
+
+// Argumento event -> parece um __proto__ so que dos eventos
+// function(event) {}
