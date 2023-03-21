@@ -58,3 +58,8 @@
     - Copiar e colar arquivos
 * cp -r 
     - Copiar e colar diretórios
+
+
+## Movendo e renomenado arquivos ou pastas
+* mv
+    - mover(renomear)
