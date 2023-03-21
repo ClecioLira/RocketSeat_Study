@@ -63,3 +63,15 @@
 ## Movendo e renomenado arquivos ou pastas
 * mv
     - mover(renomear)
+
+
+## Removendo arquivos ou pastas
+* rm
+    - remover(para sempre)
+* rm -r
+    - remover diretórios
+* rm -rf
+    - remover a força, sem precisar de permissão
+
+
+## 
