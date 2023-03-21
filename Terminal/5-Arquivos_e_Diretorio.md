@@ -74,4 +74,11 @@
     - remover a força, sem precisar de permissão
 
 
-## 
+## Wildcards (curinga)
+* *
+    - Completar o nome dos diretórios com ou mais caracteres
+* ?
+    - Completa com apenas 1 caractere
+
+
+## Encontrar arquivos ou pastas com find
