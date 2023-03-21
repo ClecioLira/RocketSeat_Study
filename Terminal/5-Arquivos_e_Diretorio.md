@@ -89,3 +89,8 @@
 ## Ver conteúdo de arquivos com cat e less
 * less
 * cat
+
+
+## Editando arquivos com nano e vim
+* nano
+* vim
