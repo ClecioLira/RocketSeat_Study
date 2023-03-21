@@ -86,4 +86,6 @@
     - -type ./ <directory or file> -name "nome e tipo do diretório ou arquivo"
 
 
-## 
+## Ver conteúdo de arquivos com cat e less
+* less
+* cat
