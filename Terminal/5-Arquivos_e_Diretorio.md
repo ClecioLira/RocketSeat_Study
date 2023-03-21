@@ -38,3 +38,13 @@
     - Dono
     - Modificações
     - Tamanho do arquivo
+    
+
+## Criar diretórios com o mkdir
+* mkdir
+    - Criar diretórios
+* mkdir -p
+    - Criar vários diretórios
+
+
+## 
