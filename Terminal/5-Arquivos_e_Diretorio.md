@@ -82,3 +82,8 @@
 
 
 ## Encontrar arquivos ou pastas com find
+* find <diretório> argumento[Expressão]
+    - -type ./ <directory or file> -name "nome e tipo do diretório ou arquivo"
+
+
+## 
