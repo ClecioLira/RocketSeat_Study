@@ -47,4 +47,14 @@
     - Criar vários diretórios
 
 
-## 
+## Criar arquivos com o touch
+* touch
+    - Altera registro de data e hora de arquivos ou pastas
+    - Criar um ou mais arquivos
+
+
+## Copiando arquivos e pastas
+* cp
+    - Copiar e colar arquivos
+* cp -r 
+    - Copiar e colar diretórios
