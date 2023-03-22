@@ -61,3 +61,15 @@
     - Eveneto Lupin: Event loop
 
 * Node é single-threaded, non-blocking e asynchronous
+
+
+## História do Node
+* Criado por Ryan Dahi em 2009
+* NPM Versão 1 em 2011 https://npm.js.org
+    - Compartilhamento de bibliotecas
+    - Grande mudança na manutenção e compartilhamento de códigos
+* 2015 Node.js Foundation
+    - Incluiu: IBM, Microsoft, PayPal e Groupon
+    - Passou a fazer parte do https://openjsf.org/
+* https://github.com/nodejs/node
+* Comunidade ativa!
