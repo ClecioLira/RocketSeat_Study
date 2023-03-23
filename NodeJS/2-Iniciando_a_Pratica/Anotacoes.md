@@ -9,3 +9,6 @@ console.log(require())
 
 ## Mandeira de criar modulos no JS
 module.exports = 
+
+## Traz uma lista de processos que está rodando no Node
+console.log(process.argv)
