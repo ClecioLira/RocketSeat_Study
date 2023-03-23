@@ -47,10 +47,12 @@
     - Criar vários diretórios
 
 
-## Criar arquivos com o touch
+## Criar arquivos
 * touch
     - Altera registro de data e hora de arquivos ou pastas
     - Criar um ou mais arquivos
+* code
+    - Cria arquivos na pasta selecionada no VSCODE
 
 
 ## Copiando arquivos e pastas
