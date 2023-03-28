@@ -27,3 +27,13 @@ npm init -y -> criar o NPM dando yes para todas as perguntas
 npm install -> Vai instalar qualquer módulo no repositório do NPM
 npm install 'repository' -D -> Dependencia somente para desenvolvimento
 npm update -> Vai atualizar o package-lock.JSON
+
+
+## O que é o diretório node_modules
+* É onde fica todos os arquivos necessários para rodar o módulo instalado
+* Não enviar esse diretório para o GIT, por isso tem que criar um .gitignore dentro da pasta
+    * Dentro do .gitignore
+        - node_modules/
+
+
+## package-lock.json
