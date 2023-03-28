@@ -43,3 +43,19 @@ npm update -> Vai atualizar o package-lock.JSON
 
 ## Criando e rodando scripts
 npm run 'nome abaixo do script' -> Rodar o script
+
+
+## Instalar módulo de maneira global
+npm install cfonts -g -> Criar módulo de maneira global
+npm root -g -> Achar a pasta onde o módulo foi criado
+npm uninstall cfonts -g -> Desinstalar o módulo global criado
+
+
+## Mudar a versão dos modulos
+npm install cfonts@1.5.2 -> Mudando a versão para um versão específica
+npm outdated -> Ver as versões dos modulos instalados
+npm install cfonts@latest -> Pega a última versão do módulo
+
+
+## Removendo modulos
+npm uninstall cfonts -> Desinstalar o módulo
