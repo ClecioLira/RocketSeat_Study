@@ -12,3 +12,16 @@ __Glossary: Dependencies, packages, modules
 * O que é o arquivo package_lock.json
 * Criar scripts para rodar com o npm
 
+
+## Iniciando um pacote NPM
+
+npm init -> criar o NPM
+npm init -y -> criar o NPM dando yes para todas as perguntas
+
+
+## package.json
+* É um arquivo no formato de JSON - JavaScript Object Notation
+
+
+## Instalando módulos
+* npm install -> Vai instalar qualquer módulo no repositório do NPM
