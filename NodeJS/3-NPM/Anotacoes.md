@@ -24,4 +24,6 @@ npm init -y -> criar o NPM dando yes para todas as perguntas
 
 
 ## Instalando módulos
-* npm install -> Vai instalar qualquer módulo no repositório do NPM
+npm install -> Vai instalar qualquer módulo no repositório do NPM
+npm install 'repository' -D -> Dependencia somente para desenvolvimento
+npm update -> Vai atualizar o package-lock.JSON

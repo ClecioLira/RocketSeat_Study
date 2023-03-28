@@ -12,7 +12,7 @@
   ],
   "author": "Clecio Lira",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "cfonts": "^3.1.1"
   }
 }
