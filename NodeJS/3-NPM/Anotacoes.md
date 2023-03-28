@@ -37,3 +37,9 @@ npm update -> Vai atualizar o package-lock.JSON
 
 
 ## package-lock.json
+* Não mexa nesse arquivo
+* Ele serve para fazer um mapeamento das dependências que tem em seu projeto
+
+
+## Criando e rodando scripts
+npm run 'nome abaixo do script' -> Rodar o script
