@@ -9,13 +9,19 @@ const questions = [
     "Quantas pessoas eu ajudei hoje?", // 4
 ]
 const ask = (indice = 0) => {
-    process.stdout.write(questions[indice] + "\n\n")
+    process.stdout.write("\n" + questions[indice] + " > ")
 }
 ask()
 
 
+const answers = []
 // Ouve eventos
 process.stdin.on("data", data => { // Rodar a função todas as vezes que forem inseridos dados
-    process.stdout.write(data.toString().trim() + "\n\n") // trim() remove espaços vazios
-    process.exit() // Desligar o processo
+    answers.push(data.toString().trim() + "\n\n")// trim() remove espaços vazios
+    if (answers.length < questions.length) { // Fazer todas as perguntas
+        ask(answers.length)
+    } else {
+        console.log(answers) // Ver as respostas
+        process.exit() // Desligar o processo
+    }
 })
