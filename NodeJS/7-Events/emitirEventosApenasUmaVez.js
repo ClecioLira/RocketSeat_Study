@@ -1,7 +1,7 @@
 const {EventEmitter} = require('events');
 const emitir = new EventEmitter();
 
-emitir.on("nome do emit", (mensagem) => {
+emitir.once("nome do emit", (mensagem) => { // o once ouve apenas o primeiro emit
     console.log("Eu ouvi você!", mensagem)
 }) // Aqui é onde eu ouço o evento
 
