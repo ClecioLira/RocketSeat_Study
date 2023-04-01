@@ -3,8 +3,8 @@
 Uma maneira de trabalharmos com o tempo dentro do NodeJS
 
 ## O que vamos aprender?
-* setTimeout
-* clearTimeout
+* setTimeout - Roda uma função depois de X milissegundos
+* clearTimeout - Cancela um setTimeout
 * setInterval
 * clearInterval
 
