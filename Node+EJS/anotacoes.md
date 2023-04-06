@@ -13,3 +13,6 @@
 - Usar o bootstrap para estilizar o site
 - npm install ejs > Instalar o EJS dentro do projeto
 - npm install express > Instalar o Server
+- app.get > seleciona os arquivos para rodar a página
+- app.listen() > bota o número da porta do localhost
+- 
