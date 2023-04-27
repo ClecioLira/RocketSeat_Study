@@ -45,3 +45,4 @@ like = parecido, contendo, é igual
 
 ## Operadores relacionais
 =, quando queremos pegar apenas um único usuário da nossa tabela
+like = ele tem a mesma função que o igual porém é usado para procurar textos "procure a informação dentro de aspas"
