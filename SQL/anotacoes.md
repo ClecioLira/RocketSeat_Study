@@ -20,3 +20,22 @@
 
 ## Informações
     São os cadastros feitos em cada campo da tabela.
+
+
+## Tipos de campo
+* text = relacionado a informações como frases e nomes
+* number = apenas para números
+* datatime = apenas paras datas com números e traços
+* primary key = identificador único
+
+## Regras para escrever nome de tabelas e campos
+* Deve sempre começar por uma letra do alfabeto
+* Os caracteres seguintes não são permitidos = () + - / * " ; & | # < > ´ {} % 
+* Não pode conter espaços
+* Não pode conter acentuação
+
+
+## Comandos
+SELECT = buscar informações
+* = todos
+FROM = de qual tabela
