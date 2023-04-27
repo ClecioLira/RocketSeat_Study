@@ -41,3 +41,7 @@ SELECT = buscar informações
 FROM = de qual tabela
 WHERE = procurar uma informação específica
 like = parecido, contendo, é igual
+
+
+## Operadores relacionais
+=, quando queremos pegar apenas um único usuário da nossa tabela
