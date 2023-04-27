@@ -18,3 +18,5 @@
 ## Campos
     São os titulos das informações que colocaremos nas tabelas.
 
+## Informações
+    São os cadastros feitos em cada campo da tabela.
