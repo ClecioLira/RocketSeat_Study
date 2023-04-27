@@ -13,4 +13,8 @@
 - Firebase
 
 ## Tabelas
-    As informações são organizadas em tabelas
+    As informações são organizadas em tabelas.
+
+## Campos
+    São os titulos das informações que colocaremos nas tabelas.
+
