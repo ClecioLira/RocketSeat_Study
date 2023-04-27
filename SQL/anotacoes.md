@@ -37,5 +37,7 @@
 
 ## Comandos
 SELECT = buscar informações
-* = todos
+* = todos os campos
 FROM = de qual tabela
+WHERE = procurar uma informação específica
+like = parecido, contendo, é igual
