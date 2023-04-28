@@ -52,3 +52,11 @@ like = ele tem a mesma função que o igual porém é usado para procurar textos
 "<= = menor ou igual a que>"
 <> = não igual a
 != = diferente de
+
+
+## Operadores matemáticos
++, adição = faz a soma para chegar a informação desejada
+-, subtração = faz a subtração para chegar a informação desejada
+*, multiplicação = faz a multiplicação para chegar a informação desejada
+/, divisão = faz a divisão para chegar a informação desejada
+%, modulo/ resto = faz a divisão e ver qual será o resto dessa divisão para dar a informação desejada
