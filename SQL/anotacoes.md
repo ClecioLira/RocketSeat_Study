@@ -60,3 +60,11 @@ like = ele tem a mesma função que o igual porém é usado para procurar textos
 *, multiplicação = faz a multiplicação para chegar a informação desejada
 /, divisão = faz a divisão para chegar a informação desejada
 %, modulo/ resto = faz a divisão e ver qual será o resto dessa divisão para dar a informação desejada
+
+
+## Operadores lógicos
+AND = juntar 2 condições
+OR = ambas condições vão ser realizadas se forem true
+BETWEEN/ NOT BETWEEN = entre intervalos
+IN/ NOT IN = quais informações queremos encontrar dentro de ()
+IS NULL/ IS NOT NULL = procurar informações nulas ou não nulas
