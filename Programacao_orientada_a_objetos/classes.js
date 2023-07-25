@@ -1,0 +1,3 @@
+// Syntactical sugar
+// Prototype
+
