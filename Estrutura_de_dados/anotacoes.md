@@ -54,3 +54,20 @@ Metodos fundamentais
     pop(): remover o elemento do topo da pilha
     peek(): obter o elemento do topo da pilha
 Outros metodos poderão ser implementados como size() para mostrar o tamanho da pilha
+
+
+## Queue
+Significa fila, como uma fila em uma loja ou restaurante
+    Linear
+    O primeiro a entrar na fila é o primeiro a sair
+
+First in first out
+    O primeir elemento a entrar é o primeiro a sair
+Front é a referencia do primeiro elemento a entrar na fila
+Back é a referencia do ultimo elemento a entrar na fila
+
+Metodos fundamentais
+    enqueue(): adicionar um elemento ao final da fila
+    dequeue(): remover o primeiro elemento a entrar na fila
+
+Outros metodos poderao ser implementados como size() para mostrar o tamanho da fila ou front() para pegar o primeiro elemento da fila, dentre outros tantos.
