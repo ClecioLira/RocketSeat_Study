@@ -68,3 +68,14 @@ OR = ambas condições vão ser realizadas se forem true
 BETWEEN/ NOT BETWEEN = entre intervalos
 IN/ NOT IN = quais informações queremos encontrar dentro de ()
 IS NULL/ IS NOT NULL = procurar informações nulas ou não nulas
+
+
+## Mais comandos
+INSERT INTO = Inserir dados na tabela
+INSERT INTO aluno (nome, cpf, responsavel) VALUES ('Maria Luiza', 12345678978, 'João Paulo')
+
+UPDATE = Alterar algum dado já inserido na tabela
+UPDATE aluno SET nome = 'Mariana Luiza' WHERE matricula = 2
+
+DELETE = Apagar uma informação do nosso banco de dados
+DELETE FROM aluno WHERE matricula = 2
