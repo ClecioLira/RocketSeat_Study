@@ -39,3 +39,18 @@ Array no JS:
 ## Matriz
 Significa que é um array dentro de outro array
 Poderemos ter muitos niveis
+
+
+## Stack
+Strack é pilha como uma pilha de livros.
+    Linear, um após o outro
+    O último a entrar na pilha é o primeiro a sair
+
+Last in first out
+    O ultimo elemento a entrar na pilha, aquele elemento do topo da pilha, é o primeiro a sair.
+
+Metodos fundamentais
+    push(): adiciona um elemento a pilha
+    pop(): remover o elemento do topo da pilha
+    peek(): obter o elemento do topo da pilha
+Outros metodos poderão ser implementados como size() para mostrar o tamanho da pilha
