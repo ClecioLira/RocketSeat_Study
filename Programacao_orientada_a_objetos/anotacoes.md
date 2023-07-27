@@ -55,3 +55,33 @@ Prototype
     Agrupamento de funções e variáveis
     Esconder detalhes de implementação
     Camada de segurança para os atributos e metodos
+
+## Programação estruturada VS Programação orientada a objetos
+Programação estruturada:
+    Processa a entrada e manipulação dos dados até a saida
+    Uso de sequencias estruturas de repetições e condições
+    Use de uma rotina maior ou sub-rotinas
+    Não existem restrições as variaveis
+
+Programação orientada a objetos:
+    Surge para trazer um cuidado ao uso estruturado
+        Não elimina por completo o uso estruturado
+    Conceitos como Objetos e Classes
+    Cuidados com variaveis e rotinas (encapsulamento)
+    Melhor reuso de codigo (herança)
+
+## Herança
+Pais e filhos
+Objetos podem herdar, ou estender caracteristicas bases
+Uma copia de atritubutos e metodos de outra classe
+Um objeto pode estender de outro objeto que pode estender de outro objeto
+Facil reutilização de codigo
+
+## Polimorfismo
+Quando um objeto estende de outro talvez haja a necessidade de reescrever uma ou mais caracteristicas nesse novo objeto
+Recriaremos então um metodo da classe herdada
+Polimorfismo significa muitas formas
+
+# Abstração
+Atributos e metodos podem ser criados na classe de abstração
+A implementação dos metodos e atributos so podera ser feita na classe que ira herdar essa abstração
