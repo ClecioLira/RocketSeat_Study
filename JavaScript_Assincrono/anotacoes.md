@@ -19,3 +19,7 @@ Settled: Seja com sucesso ou com erro, ela foi finalmente concluída.
 É usado para operações assincronas
     Carregar um arquivo
     Leitura de dados de uma API
+
+## Async/ Await
+Maneiras de escrever promises
+Syntatic sugar
