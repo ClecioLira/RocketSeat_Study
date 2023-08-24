@@ -7,7 +7,7 @@ app.listen('3000')
 //let author = "Clecio"
 
 //middleware
-//app.use(express.json())
+app.use(express.json())
 
 // ROTA POST
 //app.route('/').post( (req, res) => console.log(req.body))
@@ -29,3 +29,7 @@ app.listen('3000')
 
 
 
+app.route('/').post( (req, res) => {
+    const {nome, cidade} = req.body
+    res.send(`Meu nome é ${nome} e minha cidade é ${cidade}`)
+})
