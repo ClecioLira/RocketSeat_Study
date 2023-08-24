@@ -1,0 +1,12 @@
+{
+    "nome": "Clécio Lira",
+    "cidade": "Arcoverde",
+    "telefone": 87991090861,
+    "jogos favoritos": [
+        "WOW", "Fortnite", "LOL"
+    ],
+    "hobbies": {
+        "Semana": "Correr",
+        "Fim de semana": "Basquete"
+    }
+}
